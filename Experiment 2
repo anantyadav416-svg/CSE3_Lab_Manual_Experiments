@@ -1,0 +1,56 @@
+html>
+<head>
+<title>world new </title>
+</head>
+<body>
+
+    <h1 align ="center">Global Daily News</h1>
+    <p align="center" > Your trusted  source for latest update </p>
+
+<hr>
+<p align="center">
+<a href="#world">world</a>|
+<a href="#soprts">soprts</a>|
+<a href="#Entretainment">Entretainment</a>|
+<a href="#podcast">podcast</a>|
+<a href="#contact">contact</a>|
+</p>
+<hr>
+<p id="World">
+<h1>World News</h1>   
+<p>  Today top headline : Golbal leaders meet to discuss climate change initiatives .</p>
+<img src="image.png.jpg" alt="bbc news" width="500" height="310">
+</p>
+<hr>
+<p id="soprts">
+<a href="">Read more on BBC</a> 
+<h1>Shorts update</h1>
+<p>height of yesterday football matach with thrilling last minute goals</p>
+<iframe height="400",width="700"
+src="https://www.youtube-nocookie.com/embed/eKqY-oP1d_Y?si=aPr33IPVaA7ETqKk"> </iframe> 
+</p>
+<hr>
+<p id="Entertainment">
+ <h3>Entertainment</h3>  
+<p> New movies trailer realeased today fans are excited!</p>
+<video controls height="400" width="700">
+<source
+src="c:\Users\lenovo\OneDrive\Documents\entertainment .mp4">
+</video>
+</p>
+<hr>
+<p id="Podcast">
+<h1>News podcast</h1>
+<p>Listen to Today top headline</p>
+<audio controls>
+ <source src="c:\Users\lenovo\OneDrive\Documents\podcast .ogg"></audio>
+</p>
+<hr>
+<p id="contact">
+ <h1>Contact Us</h1>
+ <p>Name Abhay yadav</p>
+ <p>Admission Number:2026b01010727</p>
+ <P>Email:aadityyadav9935@gmail.com</P>   
+</p> 
+</body>
+</html>
